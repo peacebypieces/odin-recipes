@@ -2,6 +2,16 @@
     background-color: antiquewhite;
 }
 
-h1 {
+.heading{
     font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e1a981;
+}
+
+p,li{
+    color: #c4a4a4;
+}
+
+.image{
+    width: 250px;
 }
