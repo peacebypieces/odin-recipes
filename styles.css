@@ -42,9 +42,16 @@ img {
     border: 20px solid rgb(250, 216, 165);
 }
 
-.recipes{
-    display: inline;
+.recipes-container div{
+    display: inline-flex;
     margin: 5px;
+}
+
+.food{
+    border: none;
+    margin: 5px;
+    width: 250px;
+    height: auto;
 }
 
 #quote{
