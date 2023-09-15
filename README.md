@@ -2,7 +2,7 @@
 Odin Recipes Project for The Odin Project
 
 The project was created as part of the Foundations for The Odin Project. 
-All pictures and information are from https://www.allrecipes.com, none are owned by me.
+All pictures and information of food are from https://www.allrecipes.com, none are owned by me.
 No copyright infringement intended, used for educational purposes. 
 
 Created on 9/13/2023.
