@@ -2,12 +2,17 @@ html {
     background-color: antiquewhite;
 }
 
+div{
+    text-align: center;
+}
 
 h1,
 h2,
 h3 {
+    display: inline-block;
     text-align: center;
     border-bottom: 5px solid rgb(250, 216, 165);
+    padding: 500px;
 }
 
 .heading {
@@ -17,10 +22,15 @@ h3 {
     padding: 20px;
 }
 
+p{
+    text-align: center;
+}
+
 p,
 li {
     color: #c4a4a4;
 }
+
 
 img {
     display: block;
@@ -36,4 +46,14 @@ img {
 .recipes{
     display: inline;
     margin: 20px;
+}
+
+#quote{
+    color: #9e801d;
+    margin-bottom: 10px;
+}
+
+ul > li,
+ol > li{
+    text-align: left;
 }
