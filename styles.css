@@ -42,9 +42,12 @@ img {
     border: 20px solid rgb(250, 216, 165);
 }
 
-.recipes-container div{
-    display: inline-flex;
+.recipes-container{
+    display: flex;
     margin: 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
 }
 
 .food{
