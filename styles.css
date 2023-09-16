@@ -39,7 +39,7 @@ img {
     margin-right: auto;
     height: 250px;
     width: 250px;
-    border: 20px solid rgb(250, 216, 165);
+    border: 1em solid rgb(250, 216, 165);
 }
 
 .recipes-container{
